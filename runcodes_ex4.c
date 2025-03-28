@@ -19,6 +19,6 @@ int main() {
 
     scanf("%d\n%d\n%d", &a, &b, &c);
     
-    printf("%d eh maior", comp2num(a,comp2num(b,c)));
+    printf("%d eh o maior", comp2num(a,comp2num(b,c)));
 
 }
